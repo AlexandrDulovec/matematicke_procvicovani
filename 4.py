@@ -1,0 +1,1 @@
+print("Toto je moc těžké")
